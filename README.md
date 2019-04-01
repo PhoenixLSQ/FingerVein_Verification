@@ -1,4 +1,5 @@
 # FingerVein_Verification
+本项目为一个指静脉验证的算法，提取8方向Gabor滤波增强后的ELLBP特征，后根据相关分数激活的OverlapScoreE以及ElasticScore融合判断结果  
 运行测试：  
 类间：Q_newTest_Between.m  
 类内：Q_newTest_Within.m  
